@@ -4,10 +4,10 @@
 
 ---
 
-## 🚀 About Me  
-- **Tech Enthusiast** | Love exploring and learning new innovations.  
-- 🌱 **Go Green (GG) Advocate** | Planting more trees & roots for a sustainable future.  
-- 💡 **Always Learning** | Development,ML, DSA, Open Source, and more!  
+##  Me  
+- **Tech ** | Love exploring and learning new innovations.  
+- 🌱 **Go Green (GG)** | Planting more trees & roots for a sustainable future.  
+- 💡 **Always Learning** | Development,, DSA, Open Source, and more!  
 - 📬 **Let’s Connect** → [Email me](mailto:rootrahull21@gmail.com)  
 
 ---

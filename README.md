@@ -1,14 +1,12 @@
-# 🌟 Hey there, I'm Rahul! 👋  
+#  I'm Rahul!   
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=32CD32&width=435&lines=KumarRahul;Passionate+about+Tech!;Go+Green+(GG)+Advocate!;Building+Cool+Projects!;Always+Learning!🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=32CD32&width=435&lines=Kumara_Rahul;Passionate+about+Tech!;Building+Building+Building!!;::)
 
 ---
 
 ##  Me  
-- **Tech** | Love exploring and learning new innovations.  
-- 🌱 **Go Green (GG)** | Planting more trees & roots for a sustainable future.  
-- 💡 **Always Learning** | Development,, DSA, Open Source, and more!  
-- 📬 **Let’s Connect** → [Email me](mailto:rootrahull21@gmail.com)  
+- **Techie** | Love exploring and learning new things.  
+- 📬 **Mail** → [Email me](mailto:rootrahull21@gmail.com)  
 
 ---
 
@@ -25,4 +23,4 @@
 
 
 
-💬 **"Keep the real, keep growing!"** 🚀✨  
+💬 **"Keep the real Trap Trap Trap Travis Head ...."**   

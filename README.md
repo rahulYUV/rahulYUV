@@ -24,9 +24,9 @@ cdac - sde (ai) intern
 building a region-aware genai platform end-to-end using react, fastapi, postgresql, and fine-tuning diffusion models with lora and pytorch.
 
 </td>
-<td width="460" style="border: none;" valign="top">
+<td width="330" style="border: none;" valign="top">
 
-<img width="460" alt="photo" src="mountain.jpeg">
+<img width="330" alt="photo" src="mountain.jpeg">
 
 </td>
 </tr>

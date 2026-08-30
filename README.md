@@ -12,22 +12,21 @@ stack: typescript · java · go · python · redis · postgresql · docker · di
 
 \> currently building: [splitwayy](https://github.com/rahulYUV/splitwayy) - real-time expense-sharing platform with immutable audit rules
 
-i'm a final year IT engineering student who spends most of his free time in the terminal, building things that live close to the metal. distributed systems, low-latency backends, and agentic ai are where i actually want to be  everything else is just practice for that.
+i'm a final year IT engineering student who spends most of his free time in the terminal, building things that live close to the metal. distributed systems, low-latency backends, and agentic ai are where i actually want to be &nbsp;everything else is just practice for that.
 
 open source is where i learn fastest.
 
 right now i split my time between backend infra at work and side projects - federated learning, multi-agent workflows, systems-level stuff.
 btw, i use arch.
 
-**work experience**
+**work experience**  
 cdac - sde (ai) intern  
 building a region-aware genai platform end-to-end using react, fastapi, postgresql, and fine-tuning diffusion models with lora and pytorch.
 
 </td>
 <td width="340" style="border: none;" valign="top">
 
-<img width="340" alt="photo" src="mountain.jpeg">
-
+<img height="480" width="340" alt="photo" src="mountain.jpeg" style="object-fit: cover;">
 
 </td>
 </tr>
